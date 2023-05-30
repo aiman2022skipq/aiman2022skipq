@@ -15,8 +15,8 @@ Welcome to my GitHub profile! I am Aiman Tariq, a **Fullstack Web Developer** wi
 
 ## Contact Me
 Feel free to reach out to me through the following channels. <br/>
-<a href="mailto:aiman.tariq.skipq@gmail.com" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-email-2.png" alt="aiman.tariq.skipq@gmail.com" height="35" width="40" /></a>
-<a href="https://linkedin.com/in/aiman-tariq-sarwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiman-tariq-sarwar" height="30" width="40" /></a>
-<a href="https://aimantariq.tech/" target="blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-globe-thin.png" alt="aiman.tariq.skipq@gmail.com" height="30" width="30" /></a>
+<a href="mailto:aiman.tariq.skipq@gmail.com" target="_blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2012/240/iconmonstr-email-2.png" alt="aiman.tariq.skipq@gmail.com" height="35" width="40" /></a>
+<a href="https://linkedin.com/in/aiman-tariq-sarwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aiman-tariq-sarwar" height="30" width="40" /></a>
+<a href="https://aimantariq.tech/" target="_blank"><img align="center" src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-globe-thin.png" alt="aiman.tariq.skipq@gmail.com" height="30" width="30" /></a>
 
 I am always open to new opportunities and collaborations. Let's connect and build something amazing together!
