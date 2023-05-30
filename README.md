@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**aiman2022skipq/aiman2022skipq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Fullstack Web Developer
 
-Here are some ideas to get you started:
+## Introduction
+Welcome to my GitHub profile! I am a Fullstack Web Developer with a strong interest in MERN stack. I am always eager to expand my knowledge and keep up with the latest trends in web development. I am open to learning new technologies and frameworks that can enhance my skills and help me build even more robust and efficient applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Frontend**: HTML, CSS, JavaScript, React, Material UI, Bootstrap
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Testing**: Jest
+- **State Management**: Redux
+- **Version Control**: Git
+- **API Testing**: Postman
+- **Project Management**: Jira
+
+## Contact Me
+Feel free to reach out to me through the following channels:
+- Email: [aiman.tariq.skipq@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/aiman-tariq-sarwar/]
+- Portfolio: [https://aimantariq.tech/]
+
+I am always open to new opportunities and collaborations. Let's connect and build something amazing together!
