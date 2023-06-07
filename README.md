@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Introduction
+## About Me
 Welcome to my GitHub profile! I am Aiman Tariq, a **Fullstack Web Developer** with a strong interest in MERN stack. I am always eager to expand my knowledge and keep up with the latest trends in web development. I am open to learning new technologies and frameworks that can enhance my skills and help me build even more robust and efficient applications.
 
 ## Skills
